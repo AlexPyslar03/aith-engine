@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc-lib.a CMakeFiles/src-lib.dir/include/Physics.cpp.o CMakeFiles/src-lib.dir/include/Entity.cpp.o CMakeFiles/src-lib.dir/include/Block.cpp.o
+/usr/bin/ranlib libsrc-lib.a

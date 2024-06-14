@@ -1,0 +1,4 @@
+/home/alex_pyslar/projects/Patranda-repos/anarchy-in-the-head-engine/build/CMakeFiles/src-lib.dir
+/home/alex_pyslar/projects/Patranda-repos/anarchy-in-the-head-engine/build/CMakeFiles/anarchy-in-the-head.dir
+/home/alex_pyslar/projects/Patranda-repos/anarchy-in-the-head-engine/build/CMakeFiles/edit_cache.dir
+/home/alex_pyslar/projects/Patranda-repos/anarchy-in-the-head-engine/build/CMakeFiles/rebuild_cache.dir

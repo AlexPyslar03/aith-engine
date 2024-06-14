@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/anarchy-in-the-head.dir/include/main.cpp.o -o anarchy-in-the-head  libsrc-lib.a 
